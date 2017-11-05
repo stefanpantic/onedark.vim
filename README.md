@@ -4,6 +4,8 @@ Original repo can be found [here](https://github.com/joshdick/onedark.vim)
 
 # Description
 
+![onedark.vim Preview](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/preview.png)
+
 Changed the background color to be darker.
 Bold the current line number.
 Bold the text in the current line.
