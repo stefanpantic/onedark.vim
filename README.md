@@ -5,11 +5,13 @@ Original repo can be found [here](https://github.com/joshdick/onedark.vim)
 # Description
 
 ![onedark.vim Preview](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/preview.png)
+![onedark.vim Error](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/error.png)
+![onedark.vim Warn](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/warn.png)
 
-Changed the background color to be darker.
-Bold the current line number.
-Bold the text in the current line.
-Change parentheses match color from blue to bold-red.
-Make the warning/error colors pop a bit more.
+Changed the background color to be darker. <br>
+Bold the current line number. <br>
+Bold the text in the current line. <br>
+Change parentheses match color from blue to bold-red. <br>
+Make the warning/error colors pop a bit more. <br>
 
-Note: Only the 24-bit colors have been changed
+<b>Note</b>: Only the 24-bit colors have been changed
