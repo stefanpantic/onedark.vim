@@ -4,9 +4,12 @@ Original repo can be found [here](https://github.com/joshdick/onedark.vim)
 
 # Description
 
-![onedark.vim Preview](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/preview.png)
+![onedark.vim Preview](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/preview.png) 
+<br>
 ![onedark.vim Error](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/error.png)
+<br>
 ![onedark.vim Warn](https://raw.githubusercontent.com/stefanpantic/onedark.vim/master/img/warn.png)
+<br>
 
 Changed the background color to be darker. <br>
 Bold the current line number. <br>
